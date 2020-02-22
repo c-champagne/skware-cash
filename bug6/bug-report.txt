@@ -6,3 +6,6 @@ The transaction list isn't showing!
 
 *******************************************************
 *******************************************************
+
+Bug cause: transaction was missing from function parameter in var transctionsHTML
+Bug fix: Added "transaction" to function parameter

@@ -6,3 +6,6 @@ The transaction filtering is case sensitive. That's annoying!
 
 *******************************************************
 *******************************************************
+
+Bug cause: Original function was case sensitive
+Bug fix: Changed function to force lowercase comparisons.

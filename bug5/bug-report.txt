@@ -6,3 +6,6 @@ There's no styling on the page at all!
 
 *******************************************************
 *******************************************************
+
+Bug cause: Incorrect link to CSS stylesheet
+Bug fix: Corrected link to CSS stylesheet

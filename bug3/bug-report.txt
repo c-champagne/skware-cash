@@ -7,3 +7,6 @@ when hovered over
 
 *******************************************************
 *******************************************************
+
+Bug cause: Background color was set at the in-line style level, overriding hover color.
+Bug fix: Moved background-color style to the CSS file.

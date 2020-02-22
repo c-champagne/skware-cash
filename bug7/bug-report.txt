@@ -6,3 +6,6 @@ Every row in the transaction list has a weird comma preceding it...
 
 *******************************************************
 *******************************************************
+
+Bug cause: .join method was using the default separator of comma
+Bug fix: changed separator to be empty

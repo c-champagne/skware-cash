@@ -6,3 +6,6 @@ The list of transactions still isn't loading!
 
 *******************************************************
 *******************************************************
+
+Bug cause: Incorrect link in HTML file to .js files
+Bug fix: Corrected link to .js files

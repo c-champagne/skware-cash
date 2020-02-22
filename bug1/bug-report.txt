@@ -6,3 +6,6 @@ Hey, the list of transactions isn't loading - what gives?!
 
 *******************************************************
 *******************************************************
+
+Bug cause: Missing end quote on finalHTML variable (Line 7)
+Bug fix: Added missing end quote

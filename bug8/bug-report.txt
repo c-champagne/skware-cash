@@ -7,3 +7,6 @@ enter key. I thought it was supposed to filter as I type?
 
 *******************************************************
 *******************************************************
+
+Bug cause: The addEventListener for the search function was set to the event "change"
+Bug fix: Changed the event to "input"
